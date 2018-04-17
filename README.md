@@ -1,3 +1,3 @@
 # Gradient App 
-**_Landing for a demo startup application, created for practice._**
+**_application created for my own personal use to generate css tags for gradients dynamicly_**
 ![Screenshot](gradient.png)
