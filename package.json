@@ -1,0 +1,19 @@
+{
+  "name": "demo-gradient-app",
+  "version": "1.0.0",
+  "description": "**_application created for my own personal use to generate css tags for gradients dynamicly_** ![Screenshot](gradient.png)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linnf1/demo-gradient-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linnf1/demo-gradient-app/issues"
+  },
+  "homepage": "https://github.com/linnf1/demo-gradient-app#readme"
+}
